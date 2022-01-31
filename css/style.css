@@ -1,0 +1,45 @@
+@import "null.css";
+
+h1 {
+    color: goldenrod;
+}
+
+li a {
+    color: green;
+}
+
+[class*="sub"] a {
+    color: teal;
+}
+
+.menu {
+    color: seagreen;
+}
+
+#up {
+    color: wheat;
+}
+
+p.footer-info {
+    color: slategray;
+}
+
+.point.text {
+    color: olivedrab;
+}
+
+.block p {
+    color: dimgrey;
+}
+
+.main .headline {
+    color: indianred;
+}
+
+p mark {
+    color: red;
+}
+
+.main > p {
+    color: peru;
+}
